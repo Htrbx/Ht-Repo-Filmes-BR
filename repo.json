@@ -1,6 +1,8 @@
 {
   "name": "BR Filmes e Séries — testes",
-  "description": "Execute a configuração nas Actions antes de instalar.",
+  "description": "TopFilmes original + NetCine e PobreFlix experimentais. Sem extensões dedicadas a anime.",
   "manifestVersion": 1,
-  "pluginLists": []
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Htrbx/Ht-Repo-Filmes-BR/main/builds/plugins.json"
+  ]
 }
